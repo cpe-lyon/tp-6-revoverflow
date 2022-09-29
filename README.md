@@ -12,7 +12,6 @@ Vous administrez le réseau interne 172.16.0.0/23 d’une entreprise, et devez g
 - Sous-réseau 7 : 25 machines
 
 Donnez, pour chaque sous-réseau, l’adresse de sous-réseau, l’adresse de broadcast (multidiffusion) ainsi que les adresses de la première et dernière machine configurées (précisez si vous utilisez du VLSM ou pas).
-
 - Sous-réseau 1 :
     - Adresse de sous-réseau : 172.16.0.0/26
     - Adresse de broadcast :  172.16.0.63
@@ -20,40 +19,40 @@ Donnez, pour chaque sous-réseau, l’adresse de sous-réseau, l’adresse de br
     - Adresse de la dernière machine : 172.16.0.62
     
 - Sous-réseau 2 :
-    - Adresse de sous-réseau : 172.16.0.64/27
-    - Adresse de broadcast :  172.16.0.95
-    - Adresse de la première machine : 172.16.0.65
-    - Adresse de la dernière machine : 172.16.0.94
-    
-- Sous-réseau 3 :
-    - Adresse de sous-réseau : 172.16.0.96/29
-    - Adresse de broadcast :  172.16.0.103
-    - Adresse de la première machine : 172.16.0.97
-    - Adresse de la dernière machine : 172.16.0.102
-    
-- Sous-réseau 4 :
-    - Adresse de sous-réseau : 172.16.0.104/29
-    - Adresse de broadcast :  172.16.0.111
-    - Adresse de la première machine : 172.16.0.105
-    - Adresse de la dernière machine : 172.16.0.110
-    
-- Sous-réseau 5 :
-    - Adresse de sous-réseau : 172.16.0.112/28
+    - Adresse de sous-réseau : 172.16.0.64/26
     - Adresse de broadcast :  172.16.0.127
-    - Adresse de la première machine : 172.16.0.113
+    - Adresse de la première machine : 172.16.0.65
     - Adresse de la dernière machine : 172.16.0.126
     
-- Sous-réseau 6 :
-    - Adresse de sous-réseau : 172.16.0.128/28
-    - Adresse de broadcast :  172.16.0.143
+- Sous-réseau 3 :
+    - Adresse de sous-réseau : 172.16.0.128/26
+    - Adresse de broadcast :  172.16.0.191
     - Adresse de la première machine : 172.16.0.129
-    - Adresse de la dernière machine : 172.16.0.142
+    - Adresse de la dernière machine : 172.16.0.190
+    
+- Sous-réseau 4 :
+    - Adresse de sous-réseau : 172.16.0.192/26
+    - Adresse de broadcast : 172.16.0.255
+    - Adresse de la première machine : 172.16.0.193
+    - Adresse de la dernière machine : 172.16.0.254
+    
+- Sous-réseau 5 :
+    - Adresse de sous-réseau : 172.16.1.0/26
+    - Adresse de broadcast :  172.16.1.63
+    - Adresse de la première machine : 172.16.1.1
+    - Adresse de la dernière machine : 172.16.1.62
+    
+- Sous-réseau 6 :
+    - Adresse de sous-réseau : 172.16.1.64/26
+    - Adresse de broadcast : 172.16.1.127
+    - Adresse de la première machine : 172.16.1.65
+    - Adresse de la dernière machine : 172.16.1.126
     
 - Sous-réseau 7 :
-    - Adresse de sous-réseau : 172.16.0.144/28
-    - Adresse de broadcast :  172.16.0.159
-    - Adresse de la première machine : 172.16.0.145
-    - Adresse de la dernière machine : 172.16.0.158
+    - Adresse de sous-réseau : 172.16.1.128/27
+    - Adresse de broadcast : 172.16.1.157
+    - Adresse de la première machine : 172.16.1.129
+    - Adresse de la dernière machine : 172.16.1.156
 
 ## Exercice 2. Préparation de l’environnement
 
