@@ -50,9 +50,9 @@ Donnez, pour chaque sous-réseau, l’adresse de sous-réseau, l’adresse de br
     
 - Sous-réseau 7 :
     - Adresse de sous-réseau : 172.16.1.128/27
-    - Adresse de broadcast : 172.16.1.157
+    - Adresse de broadcast : 172.16.1.159
     - Adresse de la première machine : 172.16.1.129
-    - Adresse de la dernière machine : 172.16.1.156
+    - Adresse de la dernière machine : 172.16.1.158
 
 ## Exercice 2. Préparation de l’environnement
 
